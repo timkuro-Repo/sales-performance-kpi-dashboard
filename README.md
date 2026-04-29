@@ -1,48 +1,33 @@
-# Sales Performance & KPI Dashboard
+📌 Project Overview
 
-    ## Project Overview
-    Build an executive dashboard to track sales, profit, regional performance, and product trends.
+This project provides a comprehensive analysis of sales performance, revenue trends, and profitability using SQL and Power BI/Tableau dashboards.
 
-    This project is designed as a recruiter-ready data analyst portfolio project. It demonstrates how to translate raw business data into insights, KPIs, dashboards, and recommendations.
+🎯 Business Problem
 
-    ## Business Questions
-    - Which regions and products drive the most revenue?
-- Where are margins declining?
-- Which sales channels underperform?
-- What KPIs should executives monitor weekly?
+Businesses need clear visibility into performance metrics to make informed decisions. This project answers:
 
-    ## Tools & Skills
-    SQL, Power BI/Tableau, KPI Reporting, Excel, Data Visualization
+Which regions drive the most revenue?
+Where are profits declining?
+Which products perform best?
 
-    ## Dataset
-    The sample dataset is located in `/data/sales_data.csv`.
+🛠️ Tools & Technologies
+SQL
+Power BI / Tableau
+Excel
+Data Visualization
 
-    ## Suggested Dashboard Pages
-    1. Executive Summary
-    2. KPI Trends
-    3. Segment / Region / Product Breakdown
-    4. Root-Cause Analysis
-    5. Recommendations
+📊 Key Analysis
+Revenue and profit analysis
+KPI tracking (sales, margins, orders)
+Regional and product performance
+Trend analysis over time
 
-    ## Deliverables
-    - SQL analysis scripts in `/sql`
-    - Python exploratory analysis in `/notebooks`
-    - Dashboard screenshots or `.pbix` / Tableau workbook in `/dashboard`
-    - Final business recommendations in this README
+🔍 Key Insights
+Certain regions outperform others significantly in revenue
+High revenue does not always translate to high profit
+Specific product categories drive most sales
 
-    ## Key Insights to Add After Analysis
-    - Insight 1:
-    - Insight 2:
-    - Insight 3:
-
-    ## Business Recommendations
-    - Recommendation 1:
-    - Recommendation 2:
-    - Recommendation 3:
-
-    ## How to Use This Project
-    1. Load the CSV into SQL, Excel, Power BI, or Tableau.
-    2. Run the SQL queries in `/sql/analysis_queries.sql`.
-    3. Use the Python starter file in `/notebooks/eda_starter.py`.
-    4. Build dashboard visuals and save screenshots in `/images`.
-    5. Update this README with final insights and dashboard screenshots.
+💡 Business Recommendations
+Focus on high-margin products
+Optimize underperforming regions
+Monitor KPIs regularly through dashboards
